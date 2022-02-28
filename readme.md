@@ -6,7 +6,7 @@ modelos de criação de lading pages.
 
 ### Importanto o projeto para sua máquina
 
-1- Você precisará intalar o [git](https://git-scm.com) na sua máquina para conseguir [clonar] (https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository) o repositório com o projeto.
+1- Você precisará intalar o [git](https://git-scm.com) na sua máquina para conseguir [clonar](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository) o repositório com o projeto.
 
 2- Após instalar o git na sua máquin, abra o [git_bash](https://www.webdevdrops.com/git-bash-como-instalar-usar/) e execute o seguinte comando:
 
